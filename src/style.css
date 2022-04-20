@@ -1,0 +1,207 @@
+.navbar{
+    position: fixed;
+    
+}
+
+.navbar ul{
+    list-style-type: none;
+    margin : 0;
+    padding: 0;
+    color: rgb(223, 205, 205);
+}
+
+.navbar li{
+    display: inline;
+    top: 2px;
+    padding: 16%;
+}
+
+.navbar li a{
+    text-decoration: none;
+    color: rgb(108, 206, 215);
+    font-size: 20px;
+    font-weight: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.navbar .l3 a{
+    color: rgb(107, 204, 185);
+    font-weight: bold;
+    margin-left: 20px;
+    font-size: 35px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;    
+}
+
+.navbar .l1 {
+    padding-left: 10px;
+}
+
+.navbar .l2 {
+    padding-left: 0px;
+}
+
+.navbar .l5{
+    padding-left: 70px;
+}
+
+.navbar .l4{
+    padding-left: 0px;
+}
+
+.navbar .l6{
+    padding-left :0px;
+    
+}
+
+
+.mainhome{
+    position:sticky;
+    height:573px;
+    margin-left: -1%;
+    margin-top: -3.5%;
+    margin-right: -2%;
+    margin-bottom: -1%;
+    width:101.6%;
+    background-color: #fff;
+    
+}
+
+ .wlcm-nt p{
+    padding:80px;
+    padding-top: 200px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 500px;
+    color:rgb(155, 193, 225);
+    font-size: 40px;
+}
+
+.login-main{
+    margin-top : 3.2%;
+    margin-left: 60%;
+    font-size: 20px;
+    padding: 20px;
+    
+}
+
+.dashbrd-chat{
+    margin-left: -165%;
+    width : 1200px;
+    height: 500px;
+
+}
+
+.display-chat{
+    height: 500px;
+    background-color: #fff;
+}
+
+.logout-btn{
+    margin-left: 80%;
+    margin-top: 20%;
+    
+}
+.login-form{
+    border: 3px solid rgb(151, 86, 125);
+    height: 270px;
+    border-radius: 15px;
+    width: 250px;
+    margin-top:32%;
+    padding: 15px;
+    margin-left: -65%;
+}
+
+.frgt-pwd{
+    font-size: 15px;
+}
+
+.reset{
+    padding-left: 25px;
+}
+
+.reset-pwd{
+    margin-top : 40%;
+    height: 150px;
+    padding: 20px;
+}
+
+.login-parts{
+    border : 2px solid rgb(77, 143, 130);
+    border-radius: 7px;
+    width: 230px;
+    margin: 5px;
+    color: rgb(55, 76, 115);
+    font-size: 18px;
+    background-color: transparent;
+}
+
+.login-parts::placeholder{
+    font-size: 15px;
+    color:rgb(108, 165, 193);
+    opacity: 0.7;
+}
+
+
+/* .dashbrd{
+    margin-top: 40%;
+    margin-left : -90%;
+    margin-right: 70%;
+} */
+
+.login-form button{
+    width: 240px;
+    border:2px solid rgb(151, 86, 125);
+    color:rgb(93, 169, 215);
+}
+
+
+
+.go-lgn{
+    color:rgb(98, 148, 181);
+}
+
+.new-sign{
+    color:rgb(86, 119, 147);
+    font-size: 18px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;    
+}
+
+.signup-main{
+    color:rgb(86, 119, 147);
+    font-size: 15px;
+}
+
+.reg-link{
+    text-decoration: none;
+    color: rgb(151, 86, 125);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;    
+}
+.singup-main{
+        margin-top : 3.3%;
+        margin-left: 60%;
+        font-size: 20px;
+        padding: 20px;
+        
+    }
+
+.sign-frm{
+    margin-top: 30%;
+    border: 3px solid rgb(151, 86, 125);
+    height: 280px;
+    border-radius: 15px;
+    width: 250px;
+    padding: 30px;
+    margin-left:-65%;
+}
+
+.head-form{
+    color:rgb(75, 140, 133);
+    padding-left: 35%;
+    font-size: 23px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;    
+}
+
+.home-stup{
+    margin-left: 30%;
+    margin-top: -38%;
+}
+
