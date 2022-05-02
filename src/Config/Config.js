@@ -23,19 +23,19 @@ import {
 } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCkVyXuqs4yaFTrl1j0vRgtex0yk8A-J4A",
-  authDomain: "chat-app-993f8.firebaseapp.com",
-  databaseURL: "https://chat-app-993f8-default-rtdb.firebaseio.com",
-  projectId: "chat-app-993f8",
-  storageBucket: "chat-app-993f8.appspot.com",
-  messagingSenderId: "1059462957385",
-  appId: "1:1059462957385:web:6455ccb956267473563298",
-  measurementId: "G-8N3JLD33TW",
-  appId: "206962cfbce2d25f",
-  capiKey: "7dd63479bb7e99587492c1f61216e971ae4e98dc",
-  WidgetId: "a697e999-93da-4d16-881b-0f035f09de0e",
-  appRegion:"us",
-  authKey: "267cc073b54a596d53f40a7e13f6a4b58e8f604a",
+  apiKey: "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+  authDomain: "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+  databaseURL: "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+  projectId: "XXXXXXXXXXXXXXXX",
+  storageBucket: "XXXXXXXXXXXXXXXXXXXXXXXXxxx",
+  messagingSenderId: "XXXXXXXXXXXX",
+  appId: "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+  measurementId: "XXXXXXXXXXXXXXXXXXXX",
+  appId: "XXXXXXXXXXXXXXXX",
+  capiKey: "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+  WidgetId: "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+  appRegion:"XX",
+  authKey: "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
 
 };
 
@@ -111,9 +111,9 @@ const logout = () => {
   }
 };
 
-const APP_ID = "2073599d4404aad2"
-const APP_REGION = "us"
-const AUTH_KEY = "eb413aeea51e0d272e1e47714dcd58ffc1f18b3d"
+const APP_ID = "XXXXXXXXXXXXXXXX"
+const APP_REGION = "XX"
+const AUTH_KEY = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 export {
   auth,
   db,
